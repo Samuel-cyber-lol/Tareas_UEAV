@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    background-color: #b30059;
+    flex-direction: row ;
+    /*flex-wrap: wrap;*/
+
+}
+.container div{
+    background-color: #e67300 ;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+/*.fotos{
+    background-color: #b38f00;
+}*/
+@media (max-width:600px){
+    .container{
+        flex-direction: column;
+    }
+}
+
+ /*img{
+    width: 100%;}*/
