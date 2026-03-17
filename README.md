@@ -5,4 +5,4 @@ _En este repositorio se van a presentar tareas y trabajos con codigos realizados
 ## Relación con las tecnologías web
 _La relación que eh tenido con las tecnologías web desde que entre a la universidad ah sido bastante amplia, y eh descubierto distintos metodos de procesar la información que me ofrecece, tambien nuevas formas de aprender a utilizarlas, así como nuevas herramientas que antes desconocía, tanto como en la programación, el diseño, como utilizar la información de manera correcta y confiable para trabajos de investigación, y maneras de crear contenidos multimedia._
 
-![This is an alt text.](/imagenes%20readme/perro1.jpg "perro1" width="1000" height="700")
+![This is an alt text.](/imagenes%20readme/perro1.jpg "perro1")
