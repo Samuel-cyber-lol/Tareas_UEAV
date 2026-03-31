@@ -2,6 +2,7 @@ body{
     background-color: #3b0404;
     color: #ffffff;
     font-size: 40px;
+    text-align: center;
 }
 
 h1{
@@ -103,6 +104,13 @@ h2 {
     margin-bottom: 0px;
 }
 
+.fab {
+    
+    font-size: 30px; 
+    color: #c600e0; 
+    margin: 10px;
+    
+}
 
 
  
